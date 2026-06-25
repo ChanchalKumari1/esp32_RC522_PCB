@@ -36,3 +36,5 @@ This board is designed as a development/test PCB to make RFID-based product deve
 ## Notes
 
 This is a prototype/development PCB. Firmware can be customized as per the final product requirement.
+
+Built with ESP32 and RC522 technology, this project showcases the core functionality required for modern [personalized vending machines](https://digitalmonk.biz/custom-vending-machine-development/) and smart user authentication systems.
